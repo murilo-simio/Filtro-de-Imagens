@@ -1,10 +1,10 @@
-#FILTRO-DE-IMAGENS
+					FILTRO DE IMAGENS
 
 				MURILO SIMIONATO ARNEMANN - 18/0107453
 					TRABALHO FINAL DE APC
 				      PROF. ALEXANDRE ZAGHETTO
 
-#INSTRUÇÕES-DE-USO
+INSTRUÇÕES-DE-USO
 Para compilar o programa não é necessário utilizar nenhuma biblioteca adicional. Sugestão para linux:
 
 "gcc Murilo_Simionato_Arnemann_Problema_1.c -o <nome_do_executável>"
